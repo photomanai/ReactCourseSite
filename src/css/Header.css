@@ -1,0 +1,30 @@
+.header {
+  width: 100%;
+  /* height: 70px; */
+  background-color: rgb(54, 54, 120);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  padding: 20px 30px;
+}
+
+.paragraf {
+  padding: 20px 30px;
+  color: white;
+}
+
+.paragraf a {
+  color: gray;
+  text-decoration: none;
+}
+
+.paragraf a:hover {
+  color: white;
+  text-decoration: underline;
+}
